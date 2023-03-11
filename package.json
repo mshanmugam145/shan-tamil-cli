@@ -1,0 +1,24 @@
+{
+  "name": "shan-tamil-cli",
+  "version": "1.0.2",
+  "description": "CLI Tool for Actions in Tamil Words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "shan-tamil": "./index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@personal:mshanmugam145/shan-tamil-cli.git"
+  },
+  "author": "Shanmugam Manimaran",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "commander": "^10.0.0",
+    "conf": "^11.0.1"
+  }
+}
