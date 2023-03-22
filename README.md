@@ -6,7 +6,7 @@
 ### yarn - install node modules
 - install node modules for running app
 
-### run npm i -g
+### run npm i -g (Without Cloning this project use npm i -g shan-tamil-cli)
 
 ### run shan-tamil --help
 - For getting all commands
