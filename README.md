@@ -11,9 +11,9 @@
 ### run shan-tamil --help
 - For getting all commands
  
-  persolunga <peyar>                               Neengal kodudha peyarku Mathipu eduthal
-  solunga <peyar> <madhipu>                Neengal Pudhiya peyar matrum adhan madhipu sergaiku
-  peyarmaatram <peyar> <madhipu>     Oru peyarin mathipu maatram seivadharku
-  anaithumedu                                           Anaithu peyar matrrum adhan madhipu eduka
-  neeku <peyar>                                       oru peyar neekam seivadharku
-  help [command]                                     display help for command
+  - persolunga <peyar>                               Neengal kodudha peyarku Mathipu eduthal
+  - solunga <peyar> <madhipu>                Neengal Pudhiya peyar matrum adhan madhipu sergaiku
+  - peyarmaatram <peyar> <madhipu>     Oru peyarin mathipu maatram seivadharku
+  - anaithumedu                                           Anaithu peyar matrrum adhan madhipu eduka
+  - neeku <peyar>                                       oru peyar neekam seivadharku
+  - help [command]                                     display help for command
